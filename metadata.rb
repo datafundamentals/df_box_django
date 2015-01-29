@@ -7,3 +7,5 @@ long_description 'Installs/Configures df_box_django'
 version          '0.1.0'
 
 depends "python"
+depends "postgresql"
+depends "nginx"
